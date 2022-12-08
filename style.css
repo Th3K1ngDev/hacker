@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: rgb(35, 219, 35);
+}
+
+#imgMask{
+    margin-left: 90px;
+    margin-top: 20px;
+    width: 290px;
+}
+
+header h1{
+    font-size: 45px;
+    text-align: center;
+}
+
+input{
+    background-color: yellow;
+    border: none;
+    font-size: 15px;
+    padding: 15px;
+    cursor: pointer;
+}
